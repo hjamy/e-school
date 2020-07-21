@@ -1,0 +1,174 @@
+.body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.upperArea {
+    background-color: #F0FFF0;
+}
+
+.logo {
+    width: 198px;
+    height: 59px;
+}
+
+.bg-custom {
+    background-color: #F0FFF0;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+    font-family: 'Poppins', sans-serif;
+}
+
+#signIn {
+    width: 104px;
+    height: 43px;
+    background-color: #21B573;
+    border-radius: 33px;
+    color: white;
+    text-align: center;
+    font-family: 'Poppins';
+}
+
+.cover {
+    margin-top: 50px;
+    height: 500px;
+    background-color: #F0FFF0;
+    font-family: 'Poppins';
+}
+
+.orange-color {
+    color: #FD511A;
+}
+
+.diff-color {
+    color: #21B573;
+}
+
+.coverImage {
+    width: 100%;
+}
+
+.getStart {
+    width: 153px;
+    height: 43px;
+    background-color: #21B573;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 33px;
+    border: none;
+    font-family: 'Poppins';
+}
+
+.feature-area {
+    margin-top: 50px;
+}
+
+.box {
+    height: 300px;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Poppins';
+}
+
+.primary-text {
+    color: #413960;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.secondary-text {
+    font-size: 16px;
+    color: #585859;
+}
+
+.box img {
+    width: 65px;
+    height: 80px;
+}
+
+.img-box {
+    height: 194px;
+}
+
+.special-box {
+    background-color: white;
+    box-shadow: 5px 5px 10px lightslategray;
+}
+
+.course-area {
+    margin-top: 100px;
+}
+
+.course-area h1 {
+    color: #413960;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.card {
+    border-radius: 18px;
+    border: none;
+    box-shadow: 5px 5px 10px lightslategray;
+}
+
+.card-image {
+    transform: scale(.9);
+}
+
+.card-footer {
+    border-top: 0px;
+    background-color: white;
+    font-family: 'Poppins';
+}
+
+.card-footer img {
+    width: 18px;
+    height: 20px;
+}
+
+.card-footer p {
+    padding-left: 10px;
+}
+
+.testimonial-area {
+    margin-top: 100px;
+}
+
+.testimonial-area img {
+    width: 120px;
+    height: 120px;
+    margin-right: 50px;
+}
+
+.inner-testimonial {
+    width: 700px;
+    font-family: 'Poppins', sans-serif;
+}
+
+footer {
+    background-color: #282531;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+footer ul {
+    list-style: none;
+}
+
+.heading {
+    font-weight: bold;
+}
+
+.footer-area {
+    padding: 50px 0px 70px;
+}
+
+.copyright {
+    font-size: 12px;
+    color: rgb(187, 186, 186);
+    text-align: center;
+    padding-bottom: 10px;
+}
